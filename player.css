@@ -1,0 +1,23 @@
+#player {
+  width: 800px;
+  height: 600px;
+}
+
+.js-video-container {
+  width: 100%;
+  height: 100%;
+}
+
+.player-controls {
+  background-color: black;
+}
+
+.control-button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.control-icon {
+  color: white;
+}
