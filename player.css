@@ -13,6 +13,7 @@
 
 .player-controls {
   background-color: black;
+  display: flex;
 }
 
 .control-button {
@@ -22,6 +23,10 @@
   height: 20px;
   width: 20px;
   margin: 5px;
+}
+
+.space{
+    flex-grow: 1;
 }
 
 .control-icon {
