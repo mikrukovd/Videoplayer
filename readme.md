@@ -1,6 +1,7 @@
 # Видеоплеер
 
-Это видеоплеер основанный на базе этого [кода](https://github.com/devmanorg/video-player-jslib). 
+Это видеоплеер основанный на базе этого [кода](https://github.com/devmanorg/video-player-jslib).
+Ссылка на [GH Pages](https://mikrukovd.github.io/Videoplayer/). 
 
 Реализовано:
 - start\stop
