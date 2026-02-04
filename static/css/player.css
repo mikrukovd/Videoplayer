@@ -19,9 +19,8 @@
   border: none;
   cursor: pointer;
   background-color: transparent;
-  height: 35px;
-  width: 35px;
-  margin: 5px;
+  height: 50px;
+  margin: 4.4px;
 }
 
 .space{
@@ -30,5 +29,5 @@
 
 .control-icon {
   color: white;
-  font-size: 15px;
+  font-size: 19px;
 }
