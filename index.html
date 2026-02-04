@@ -6,6 +6,9 @@
   <link rel="stylesheet" href="static/css/font-awesome.min.css">
   <link rel="stylesheet" href="static/css/player.css">
   <link rel="icon" href="static/img/favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
   <div id="player">
@@ -23,7 +26,13 @@
       <button class="js-mute-button control-button">
         <i class="fa fa-volume-up control-icon" aria-hidden="true"></i>
       </button>
+      <div class="roboto-text video-timer" style="color: white;">
+        <span class="js-current-time"></span>
+      </div>
       <div class="space"></div>
+      <div class="roboto-text video-timer" style="color: white;">
+        <span class="js-duration"></span>
+      </div>
       <button class="js-fullscreen-button control-button">
         <i class="fa fa-expand control-icon" aria-hidden="true"></i>
       </button>

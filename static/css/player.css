@@ -6,6 +6,15 @@
   flex-direction: column;
 }
 
+.roboto-text {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 .video-container {
   flex-grow: 1;
 }
@@ -19,7 +28,7 @@
   border: none;
   cursor: pointer;
   background-color: transparent;
-  height: 50px;
+  height: 40px;
   margin: 4.4px;
 }
 
@@ -30,4 +39,10 @@
 .control-icon {
   color: white;
   font-size: 19px;
+}
+
+.video-timer {
+  color: white;
+  display: flex;
+  align-items: center;
 }
