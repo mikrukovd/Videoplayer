@@ -76,4 +76,13 @@
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
   margin-top: -2px;
   margin-left: -5px;
+  opacity: 0;
+  transition-duration: .3s;
+  transition-timing-function: ease-in;
+}
+
+.progress-bar:hover .circle{
+  opacity: 1;
+  transition-duration: .3s;
+  transition-timing-function: ease-out;
 }
