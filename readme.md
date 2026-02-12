@@ -3,12 +3,13 @@
 Это видеоплеер основанный на базе этого [кода](https://github.com/devmanorg/video-player-jslib).
 Ссылка на [GH Pages](https://mikrukovd.github.io/Videoplayer/).
 
-![videoplayer](/static/img/videoplayer.jpg)
+![videoplayer](/static/img/layout.png)
 
 Реализовано:
 - start\stop
 - mute\unmute
 - fullscreen
+- progressbar
 
 ## Запуск
 
