@@ -28,8 +28,8 @@
   border: none;
   cursor: pointer;
   background-color: transparent;
-  height: 40px;
-  margin: 4.4px;
+  height: 35px;
+  margin: 4.3px;
 }
 
 .space{
@@ -38,7 +38,7 @@
 
 .control-icon {
   color: white;
-  font-size: 19px;
+  font-size: 20px;
 }
 
 .video-timer {
@@ -52,7 +52,7 @@
   height: 5px;
   margin-left: 10px;
   margin-right: 10px;
-  margin-top: 25px;
+  margin-top: 20px;
   border-radius: 10px;
   display: flex;
   align-items: center;
